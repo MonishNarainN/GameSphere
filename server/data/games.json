@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960b8f?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.9,
+    "genre": "Action RPG"
+  },
+  {
+    "id": 2,
+    "title": "Cyberpunk 2077",
+    "image": "https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.5,
+    "genre": "Action RPG"
+  },
+  {
+    "id": 3,
+    "title": "Baldur's Gate 3",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.9,
+    "genre": "RPG"
+  },
+  {
+    "id": 4,
+    "title": "Helldivers 2",
+    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.6,
+    "genre": "Shooter"
+  },
+  {
+    "id": 5,
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "image": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.8,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 6,
+    "title": "Grand Theft Auto V",
+    "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.7,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 7,
+    "title": "Red Dead Redemption 2",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.9,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 8,
+    "title": "God of War Ragnarök",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.8,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 9,
+    "title": "Spider-Man 2",
+    "image": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.7,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 10,
+    "title": "Stardew Valley",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.9,
+    "genre": "Simulation"
+  },
+  {
+    "id": 11,
+    "title": "Minecraft",
+    "image": "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.8,
+    "genre": "Sandbox"
+  },
+  {
+    "id": 12,
+    "title": "Hollow Knight",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.8,
+    "genre": "Metroidvania"
+  },
+  {
+    "id": 13,
+    "title": "Super Mario Odyssey",
+    "image": "https://images.unsplash.com/photo-1612404730960-5c71577fca11?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.8,
+    "genre": "Platformer"
+  },
+  {
+    "id": 14,
+    "title": "Overwatch 2",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.0,
+    "genre": "Hero Shooter"
+  },
+  {
+    "id": 15,
+    "title": "Valorant",
+    "image": "https://images.unsplash.com/photo-1563725586617-6490dbd1ee85?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.5,
+    "genre": "Tactical Shooter"
+  },
+  {
+    "id": 16,
+    "title": "Apex Legends",
+    "image": "https://images.unsplash.com/photo-1588667357421-4d400e4701e9?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.4,
+    "genre": "Battle Royale"
+  },
+  {
+    "id": 17,
+    "title": "Fortnite",
+    "image": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.3,
+    "genre": "Battle Royale"
+  },
+  {
+    "id": 18,
+    "title": "Counter-Strike 2",
+    "image": "https://images.unsplash.com/photo-1588667357421-4d400e4701e9?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.6,
+    "genre": "Tactical Shooter"
+  },
+  {
+    "id": 19,
+    "title": "Terraria",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960b8f?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.8,
+    "genre": "Sandbox"
+  },
+  {
+    "id": 20,
+    "title": "Hades",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "rating": 4.9,
+    "genre": "Roguelike"
+  }
+]
